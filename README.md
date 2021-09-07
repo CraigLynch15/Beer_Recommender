@@ -12,9 +12,9 @@ Data is from Beer Advocate's beer review website, sourced from https://www.kaggl
 
 # Recommendation Systems
 * Content-Based 
-* * Using natural language processing to find similarity in the user text reviews
+  * Using natural language processing to find similarity in the user text reviews
 * Item-Based Collaborative Filtering
-* * Finding similarity between items calculated using user’s beer ratings and their cosine similarities
+  * Finding similarity between items calculated using user’s beer ratings and their cosine similarities
 * User-Based Collaboratice Filtering
-* * Finding similarity between users calculated using user’s beer ratings and the highest scoring SVD model
+  * Finding similarity between users calculated using user’s beer ratings and the highest scoring SVD model
 
