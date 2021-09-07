@@ -1,4 +1,5 @@
 # Beer_Recommender
+Capstone project for the Lighthouse Labs Data Science Bootcamp
 A beer recommendation system that will recommend new beer suggestions based on a users previous beer reviews.
 
 # Project Goal and Business Case
